@@ -1,0 +1,14 @@
+{
+    "functions": {
+      "src/index.js": {
+        "memory": 1024,
+        "includeFiles": "src/data/pendaftar.json"
+      }
+    },
+    "rewrites": [
+      {
+        "source": "/(.*)",
+        "destination": "src/index.js"
+      }
+    ]
+  }
