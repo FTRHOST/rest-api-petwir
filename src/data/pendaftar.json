@@ -1,0 +1,16 @@
+{
+  "pendaftar": [
+    {
+      "nama": "John Doe",
+      "umur": 25,
+      "alamat": "Jakarta"
+    },
+    {
+      "id": "1745911480695",
+      "nama": "asey",
+      "umur": 15,
+      "alamat": "Banyuputih",
+      "tanggalDaftar": "2025-04-29T07:24:40.695Z"
+    }
+  ]
+}
